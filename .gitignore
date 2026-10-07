@@ -1,0 +1,6 @@
+test_runner
+test_runner.exe
+*.o
+*.out
+.vscode/
+.DS_Store
